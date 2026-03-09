@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQAN4j7gyEk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VACO_\\downloads\\meowv1.0\\neonproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VACO_\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.3\\microsoft.net.illink.tasks.10.0.3.nupkg.sha512",
+    "C:\\Users\\VACO_\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.3\\microsoft.netcore.app.runtime.win-x64.10.0.3.nupkg.sha512",
+    "C:\\Users\\VACO_\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.3.nupkg.sha512",
+    "C:\\Users\\VACO_\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.3\\microsoft.aspnetcore.app.runtime.win-x64.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

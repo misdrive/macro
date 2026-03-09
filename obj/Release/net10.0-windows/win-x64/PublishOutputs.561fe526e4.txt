@@ -1,0 +1,2 @@
+C:\Users\VACO_\downloads\meowv1.0\bin\Release\net10.0-windows\win-x64\publish\neonproject.pdb
+C:\Users\VACO_\downloads\meowv1.0\bin\Release\net10.0-windows\win-x64\publish\neonproject.exe
